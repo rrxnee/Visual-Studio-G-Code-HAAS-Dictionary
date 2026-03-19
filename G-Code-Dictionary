@@ -3,7 +3,7 @@
     // These are for the current up-to-date 2026 version of HAAS G-CODE, but may not be supported by older machines or other brands. Always check your machine's documentation for the correct usage of G-codes.
     "gcode.definitions": {
 
-        "A INFO": "This file contains the G-code and M-code definitions for the HAAS Automation CNC General Mill as of 2026. These codes are used to control the machine's operations, including movements, tool changes, spindle control, and more. Always refer to your machine's documentation for the correct usage of these codes, as they may vary based on the specific model and software version of your CNC machine.",
+        "A INFO": "This dictionary contains the G-code and M-code definitions for the HAAS Automation CNC General Mill as of 2026. These codes are used to control the machine's operations, including movements, tool changes, spindle control, and more. Always refer to your machine's documentation for the correct usage of these codes, as they may vary based on the specific model and software version of your CNC machine.",
         "G00": "Rapid motion positioning",
         "G01": "Linear interpolation motion",
         "G02": "Circular interpolation motion CW",
