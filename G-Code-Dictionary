@@ -2,7 +2,7 @@
     // G-codes are standardized, but some may not be supported by all machines. Always refer to your machine's documentation for the correct usage of G-codes.
     // These are for the current up-to-date 2026 version of HAAS G-CODE, but may not be supported by older machines or other brands. Always check your machine's documentation for the correct usage of G-codes.
     "gcode.definitions": {
-        
+
 
         "G00": "Rapid motion positioning",
         "G01": "Linear interpolation motion",
@@ -111,10 +111,9 @@
         "G266": "Visible axes linear rapid percentage motion",
         "G268": "Enable feature coordinate system",
         "G269": "Disable feature coordinate system"
-    },
     // These are the publicly listed 2026 M-Codes for the HAAS Automation CNC General Mill, but may not be supported by older machines or other brands. Always check your machine's documentation for the correct usage of M-codes.
     // M-codes are machine-specific and may not be universally supported. Always refer to your machine's documentation for the correct usage of M-codes.
-    "gcode.definitions.mcodes": {
+    
         "M00": "Stop program",
         "M01": "Optional program stop",
         "M02": "Program end",
