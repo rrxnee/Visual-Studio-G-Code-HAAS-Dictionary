@@ -110,7 +110,7 @@
         "G255": "Cancel dynamic work offset",
         "G266": "Visible axes linear rapid percentage motion",
         "G268": "Enable feature coordinate system",
-        "G269": "Disable feature coordinate system"
+        "G269": "Disable feature coordinate system",
     // These are the publicly listed 2026 M-Codes for the HAAS Automation CNC General Mill, but may not be supported by older machines or other brands. Always check your machine's documentation for the correct usage of M-codes.
     // M-codes are machine-specific and may not be universally supported. Always refer to your machine's documentation for the correct usage of M-codes.
     
