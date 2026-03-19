@@ -2,6 +2,8 @@ To use, implement this code in you Visual Studio "settings.js" folder which can 
 
 TLDR : Clone, copy code from G-Code-Dictionary, Ctrl+Shift+P, "open settings" (user or workspace), press enter once inbetween the brackets and paste. Save and use.
 
+Once set up correctly, you can press Ctrl+Shift+P and type in anything referring to dictionary, or specifically ">Gcode:Show the dictionary".
+
 Note, this works with either workspace, user, or both.
 
 Will not work if vscode-gcode extension is not installed.
