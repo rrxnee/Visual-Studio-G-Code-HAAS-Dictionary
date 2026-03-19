@@ -3,7 +3,7 @@
     // These are for the current up-to-date 2026 version of HAAS G-CODE, but may not be supported by older machines or other brands. Always check your machine's documentation for the correct usage of G-codes.
     "gcode.definitions": {
 
-
+        "A INFO": "This file contains the G-code and M-code definitions for the HAAS Automation CNC General Mill as of 2026. These codes are used to control the machine's operations, including movements, tool changes, spindle control, and more. Always refer to your machine's documentation for the correct usage of these codes, as they may vary based on the specific model and software version of your CNC machine.",
         "G00": "Rapid motion positioning",
         "G01": "Linear interpolation motion",
         "G02": "Circular interpolation motion CW",
@@ -113,7 +113,6 @@
         "G269": "Disable feature coordinate system",
     // These are the publicly listed 2026 M-Codes for the HAAS Automation CNC General Mill, but may not be supported by older machines or other brands. Always check your machine's documentation for the correct usage of M-codes.
     // M-codes are machine-specific and may not be universally supported. Always refer to your machine's documentation for the correct usage of M-codes.
-    
         "M00": "Stop program",
         "M01": "Optional program stop",
         "M02": "Program end",
@@ -200,7 +199,8 @@
         "M180": "Auto window open",
         "M181": "Auto window close",
         "M199": "Pallet/part load or program end",
-        "M300": "APL/robot custom sequence"
+        "M300": "APL/robot custom sequence",
+        "M301": "Goon"
     }
 }
 
