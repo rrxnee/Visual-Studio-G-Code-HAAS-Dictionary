@@ -2,7 +2,7 @@ BEFORE USE, READ COMMENTS, ALL MACHINES CAN AND WILL BE DIFFERENT, THESE COMMAND
 I am not responsible for any damage caused by improper use of this code.
 
 
-To use, implement this code in you Visual Studio "settings.js" folder which can easily be brought up using  Ctrl+Shift+P and typing in "open settings".
+To use, implement this code in your Visual Studio "settings.js" folder which can easily be brought up using  Ctrl+Shift+P and typing in "open settings".
 
 TLDR : Clone, copy code from G-Code-Dictionary, Ctrl+Shift+P, "open settings" (user or workspace), press enter once inbetween the brackets and paste. Save and use.
 
