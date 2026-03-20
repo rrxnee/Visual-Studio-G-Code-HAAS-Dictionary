@@ -200,7 +200,6 @@
         "M181": "Auto window close",
         "M199": "Pallet/part load or program end",
         "M300": "APL/robot custom sequence",
-        "M301": "Goon"
     }
 }
 
